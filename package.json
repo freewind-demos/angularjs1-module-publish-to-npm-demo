@@ -1,4 +1,14 @@
 {
+  "name": "freewind-angularjs-module-red-panel",
+  "version": "1.0.1",
+  "description": "A simple demo angularjs module - red panel",
+  "main": "red-panel-module.js",
+  "scripts": {
+    "test": "open testing.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "angular": "^1.7.3"
   }

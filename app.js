@@ -1,1 +1,1 @@
-const app = angular.module('app', ['helloModule'])
+const app = angular.module('app', ['RedPanel'])

@@ -1,9 +1,7 @@
-AngularJS1 Module Demo
-======================
+AngularJS1 Module Publish To Npm Demo
+=====================================
 
-`module`可以用来分组，把多个相关的factory/service/controller/directive等等放在一个命名空间下。
-
-一个module还可以依赖其它的module，被依赖的module中定义的东西将自动可用。
+创建了一个module "RedPanel":
 
 ```
 npm install
@@ -11,3 +9,5 @@ open index.html
 ```
 
 ![demo](./images/demo.jpg)
+
+我们把它publish到<https://npmjs.org>上，方便在别的项目中直接引用：<https://www.npmjs.com/package/freewind-angularjs-module-red-panel>
